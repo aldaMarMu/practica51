@@ -40,6 +40,11 @@ body {
     text-align: left;
 }
 
+#mainSection img {
+    width: 200px;
+    height: 40%;
+}
+
 #mainFooter {
     text-align: center;
 }
